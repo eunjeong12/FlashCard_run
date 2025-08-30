@@ -1,6 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
+// 파일 상단 어딘가에 추가
+const BASE = import.meta.env.BASE_URL.replace(/\/+$/, ""); // 뒤 슬래시 정리
+const withBase = (p: string) => `${BASE}/${p.replace(/^\/+/, "")}`; // 선행 슬래시 제거 후 붙이기
 /* =========================================================================
    타입 정의 (Card/Folder, 외부 JSON 한 행(FlatRow))
    ========================================================================= */
@@ -161,8 +164,10 @@ function audioFileName(card: Card) {
 }
 
 function audioUrlOf(card: Card) {
-  // 파일명만 encodeURIComponent 처리 (폴더 경로는 그대로)
-  return `/audio/${encodeURIComponent(audioFileName(card))}`;
+  const id = String(card.id).padStart(4, "0");
+  const lang = card.tts?.lang ?? "ko-KR";
+  const fname = `${id}_${lang}.mp3`;
+  return withBase(`audio/${encodeURIComponent(fname)}`);
 }
 
 /* =========================================================================
@@ -240,10 +245,6 @@ export default function FlashcardTTSSlider() {
       return changed ? fixed : prev;
     });
   }, []);
-
-  // 파일 상단 어딘가에 추가
-  const BASE = import.meta.env.BASE_URL.replace(/\/+$/, ""); // 뒤 슬래시 정리
-  const withBase = (p: string) => `${BASE}/${p.replace(/^\/+/, "")}`; // 선행 슬래시 제거 후 붙이기
 
   /* ✅ 외부 JSON 로드 (public/ 하위) */
   ////////////////////////////////////
@@ -337,13 +338,6 @@ export default function FlashcardTTSSlider() {
       }
     })();
   }, []);
-
-  function audioUrlOf(card: Card) {
-    const id = String(card.id).padStart(4, "0");
-    const lang = card.tts?.lang ?? "ko-KR";
-    const fname = `${id}_${lang}.mp3`;
-    return withBase(`audio/${encodeURIComponent(fname)}`);
-  }
 
   /* 플레이어 상태 */
   const [index, setIndex] = useState(0);
