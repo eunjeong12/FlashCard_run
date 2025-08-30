@@ -241,6 +241,10 @@ export default function FlashcardTTSSlider() {
     });
   }, []);
 
+  // 파일 상단 어딘가에 추가
+  const BASE = import.meta.env.BASE_URL.replace(/\/+$/, ""); // 뒤 슬래시 정리
+  const withBase = (p: string) => `${BASE}/${p.replace(/^\/+/, "")}`; // 선행 슬래시 제거 후 붙이기
+
   /* ✅ 외부 JSON 로드 (public/ 하위) */
   ////////////////////////////////////
   //json 파일 추가//
@@ -248,44 +252,39 @@ export default function FlashcardTTSSlider() {
     (async () => {
       try {
         const files = [
+          { path: withBase("kaven.json"), lang: "ko-KR" as const, base: 1300 },
           {
-            path: "/kaven.json",
+            path: withBase("korea1.json"),
+            label: "(한글)" as const,
             lang: "ko-KR" as const,
-            base: 1300, // 필수(중복되면 안됨!) 폴더의 id와 같다. 카드의 id와는 상관없다.
+            base: 1000,
           },
           {
-            path: "/korea1.json",
-            label: "(한글)" as const, // 선택사항(폴더이름 중복시 필요)
-            lang: "ko-KR" as const,
-            base: 1000, // 필수(중복되면 안됨!) 폴더의 id와 같다. 카드의 id와는 상관없다.
-          },
-          {
-            path: "/korea2.json",
+            path: withBase("korea2.json"),
             label: "(한글)" as const,
             lang: "ko-KR" as const,
             base: 1100,
           },
           {
-            path: "/english1.json",
+            path: withBase("english1.json"),
             label: "(영어)" as const,
             lang: "en-US" as const,
             base: 2000,
           },
           {
-            path: "/english2.json",
+            path: withBase("english2.json"),
             label: "(영어)" as const,
             lang: "en-US" as const,
             base: 2100,
           },
           {
-            path: "/book1.json",
+            path: withBase("book1.json"),
             label: "(한글)" as const,
             lang: "ko-KR" as const,
             base: 1200,
           },
           {
-            path: "/business.json",
-
+            path: withBase("business.json"),
             lang: "ko-KR" as const,
             base: 3000,
           },
@@ -338,6 +337,13 @@ export default function FlashcardTTSSlider() {
       }
     })();
   }, []);
+
+  function audioUrlOf(card: Card) {
+    const id = String(card.id).padStart(4, "0");
+    const lang = card.tts?.lang ?? "ko-KR";
+    const fname = `${id}_${lang}.mp3`;
+    return withBase(`audio/${encodeURIComponent(fname)}`);
+  }
 
   /* 플레이어 상태 */
   const [index, setIndex] = useState(0);
