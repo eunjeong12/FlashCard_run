@@ -1,0 +1,911 @@
+[
+  {
+    "folder": "과일&음식",
+    "id": 300,
+    "term": "Apple",
+    "description": "사과",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_apple.png",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 301,
+    "term": "Pear",
+    "description": "배",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_pear.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 302,
+    "term": "Peach",
+    "description": "복숭아",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_peach.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 303,
+    "term": "Plum",
+    "description": "자두",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_plum.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 304,
+    "term": "Grape",
+    "description": "포도",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_grape.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 305,
+    "term": "Strawberry",
+    "description": "딸기",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_strawberry.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 306,
+    "term": "Watermelon",
+    "description": "수박",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_watermelon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 307,
+    "term": "Melon",
+    "description": "멜론",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_melon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 308,
+    "term": "Korean Melon",
+    "description": "참외",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_korean melon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 309,
+    "term": "Banana",
+    "description": "바나나",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_banana.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 310,
+    "term": "Pineapple",
+    "description": "파인애플",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_pineapple.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 311,
+    "term": "Orange",
+    "description": "오렌지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_orange.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 312,
+    "term": "Lemon",
+    "description": "레몬",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_lemon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 313,
+    "term": "Tangerine",
+    "description": "귤",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_tangerine.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 314,
+    "term": "Cherry",
+    "description": "체리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_cherry.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 315,
+    "term": "Blueberry",
+    "description": "블루베리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_blueberry.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 316,
+    "term": "Raspberry",
+    "description": "라즈베리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_raspberry.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 317,
+    "term": "Persimmon",
+    "description": "감",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_persimmon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 318,
+    "term": "Chestnut",
+    "description": "밤",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_chestnut.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 319,
+    "term": "Walnut",
+    "description": "호두",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_walnut.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 320,
+    "term": "Peanut",
+    "description": "땅콩",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_peanut.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 321,
+    "term": "Pine Nut",
+    "description": "잣",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_pine nut.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 322,
+    "term": "Mushroom",
+    "description": "버섯",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_mushroom.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 323,
+    "term": "Lettuce",
+    "description": "상추",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_lettuce.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 324,
+    "term": "Napa Cabbage",
+    "description": "배추",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_napa cabbage.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 325,
+    "term": "Cabbage",
+    "description": "양배추",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_cabbage.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 326,
+    "term": "Sweet Potato",
+    "description": "고구마",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_sweet potato.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 327,
+    "term": "Potato",
+    "description": "감자",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_potato.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 328,
+    "term": "Corn",
+    "description": "옥수수",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_corn.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 329,
+    "term": "Carrot",
+    "description": "당근",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_carrot.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 330,
+    "term": "Cucumber",
+    "description": "오이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_cucumber.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 331,
+    "term": "Tomato",
+    "description": "토마토",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_tomato.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 332,
+    "term": "Eggplant",
+    "description": "가지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_eggplant.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 333,
+    "term": "Paprika",
+    "description": "파프리카",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_paprika.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 334,
+    "term": "Green Pepper",
+    "description": "피망",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_green pepper.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 335,
+    "term": "Chili Pepper",
+    "description": "고추",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_chili pepper.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 336,
+    "term": "Garlic",
+    "description": "마늘",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_garlic.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 337,
+    "term": "Onion",
+    "description": "양파",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_onion.jpeg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 338,
+    "term": "Green Onion",
+    "description": "대파",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_green onion.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 339,
+    "term": "Radish",
+    "description": "무",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_radish.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 340,
+    "term": "Kimchi",
+    "description": "김치",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_kimchi.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 341,
+    "term": "Soybean Paste",
+    "description": "된장",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_soybean paste.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 342,
+    "term": "Red Chili Paste",
+    "description": "고추장",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_red chili paste.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 343,
+    "term": "Ramen",
+    "description": "라면",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_ramen.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 344,
+    "term": "Tteokbokki",
+    "description": "떡볶이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_tteokbokki.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 345,
+    "term": "Gimbap",
+    "description": "김밥",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_gimbap.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 346,
+    "term": "Sushi",
+    "description": "초밥",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_sushi.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 347,
+    "term": "Pizza",
+    "description": "피자",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_pizza.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 348,
+    "term": "Hamburger",
+    "description": "햄버거",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_hamburger.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "과일&음식",
+    "id": 349,
+    "term": "Ice Cream",
+    "description": "아이스크림",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/food_ice cream.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 350,
+    "term": "Cat",
+    "description": "고양이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_cat.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 351,
+    "term": "Dog",
+    "description": "강아지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_dog.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 352,
+    "term": "Rabbit",
+    "description": "토끼",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_rabbit.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 353,
+    "term": "Hamster",
+    "description": "햄스터",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_hamster.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 354,
+    "term": "Guinea pig",
+    "description": "기니피그",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_guinea pig.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 355,
+    "term": "Goldfish",
+    "description": "금붕어",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_goldfish.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 356,
+    "term": "Turtle",
+    "description": "거북이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_turtle.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 357,
+    "term": "Chicken",
+    "description": "닭",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_chicken.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 358,
+    "term": "Duck",
+    "description": "오리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_duck.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 359,
+    "term": "Pig",
+    "description": "돼지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_pig.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 360,
+    "term": "Cow",
+    "description": "소",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_cow.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 361,
+    "term": "Horse",
+    "description": "말",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_horse.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 362,
+    "term": "Sheep",
+    "description": "양",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_sheep.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 363,
+    "term": "Goat",
+    "description": "염소",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_goat.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 364,
+    "term": "Deer",
+    "description": "사슴",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_deer.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 365,
+    "term": "Elephant",
+    "description": "코끼리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_elephant.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 366,
+    "term": "Giraffe",
+    "description": "기린",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_giraffe.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 367,
+    "term": "Hippopotamus",
+    "description": "하마",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_hippopotamus.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 368,
+    "term": "Rhinoceros",
+    "description": "코뿔소",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_rhinoceros.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 369,
+    "term": "Lion",
+    "description": "사자",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_lion.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 370,
+    "term": "Tiger",
+    "description": "호랑이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_tiger.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 371,
+    "term": "Leopard",
+    "description": "표범",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_leopard.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 372,
+    "term": "Cheetah",
+    "description": "치타",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_cheetah.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 373,
+    "term": "Wolf",
+    "description": "늑대",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_wolf.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 374,
+    "term": "Fox",
+    "description": "여우",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_fox.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 375,
+    "term": "Bear",
+    "description": "곰",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_bear.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 376,
+    "term": "Panda",
+    "description": "판다",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_panda.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 377,
+    "term": "Monkey",
+    "description": "원숭이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_monkey.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 378,
+    "term": "Chimpanzee",
+    "description": "침팬지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_chimpanzee.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 379,
+    "term": "Gorilla",
+    "description": "고릴라",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_gorilla.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 380,
+    "term": "Kangaroo",
+    "description": "캥거루",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_kangaroo.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 381,
+    "term": "Koala",
+    "description": "코알라",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_koala.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 382,
+    "term": "Squirrel",
+    "description": "다람쥐",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_squirrel.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 383,
+    "term": "Mole",
+    "description": "두더지",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_mole.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 384,
+    "term": "Hedgehog",
+    "description": "고슴도치",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_hedgehog.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 385,
+    "term": "Penguin",
+    "description": "펭귄",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_penguin.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 386,
+    "term": "Eagle",
+    "description": "독수리",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_eagle.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 387,
+    "term": "Hawk",
+    "description": "매",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_hawk.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 388,
+    "term": "Owl",
+    "description": "부엉이",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_owl.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 389,
+    "term": "Crow",
+    "description": "까마귀",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_crow.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 390,
+    "term": "Magpie",
+    "description": "까치",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_magpie.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 391,
+    "term": "Pigeon",
+    "description": "비둘기",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_pigeon.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 392,
+    "term": "Sparrow",
+    "description": "참새",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_sparrow.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 393,
+    "term": "Seagull",
+    "description": "갈매기",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_seagull.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 394,
+    "term": "Whale",
+    "description": "고래",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_whale.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 395,
+    "term": "Shark",
+    "description": "상어",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_shark.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 396,
+    "term": "Dolphin",
+    "description": "돌고래",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_dolphin.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 397,
+    "term": "Seahorse",
+    "description": "해마",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_seahorse.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 398,
+    "term": "Octopus",
+    "description": "문어",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_octopus.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 399,
+    "term": "Squid",
+    "description": "오징어",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_squid.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  },
+  {
+    "folder": "동물",
+    "id": 400,
+    "term": "Crab",
+    "description": "게",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/animal_crab.jpg",
+    "tts.lang": "en-US",
+    "tts.rate": 1
+  }
+]

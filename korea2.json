@@ -1,0 +1,812 @@
+[
+  {
+    "folder": "장소",
+    "id": 200,
+    "term": "집",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/house.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 201,
+    "term": "학교",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/school.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 202,
+    "term": "교실",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/classroom.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 203,
+    "term": "도서관",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/library.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 204,
+    "term": "병원",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/hospital.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 205,
+    "term": "약국",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/pharmacy.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 206,
+    "term": "경찰서",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/police station.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 207,
+    "term": "소방서",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/fire station.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 208,
+    "term": "은행",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bank.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 209,
+    "term": "우체국",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/post office.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 210,
+    "term": "슈퍼마켓",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/supermarket.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 211,
+    "term": "시장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/market.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 212,
+    "term": "편의점",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/convenience store.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 213,
+    "term": "백화점",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/department store.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 214,
+    "term": "쇼핑몰",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/shopping mall.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 215,
+    "term": "식당",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/restaurant.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 216,
+    "term": "카페",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/cafe.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 217,
+    "term": "빵집",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bakery.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 218,
+    "term": "영화관",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/movie theater.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 219,
+    "term": "놀이공원",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/amusement park.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 220,
+    "term": "박물관",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/museum.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 221,
+    "term": "미술관",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/art gallery.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 222,
+    "term": "동물원",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/zoo.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 223,
+    "term": "공원",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/park.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 224,
+    "term": "운동장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/playground.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 225,
+    "term": "체육관",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/gym.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 226,
+    "term": "수영장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/swimming pool.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 227,
+    "term": "경기장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/stadium.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 228,
+    "term": "버스 정류장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bus stop.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 229,
+    "term": "지하철역",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/subway station.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 230,
+    "term": "기차역",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/train station.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 231,
+    "term": "공항",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/airport.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 232,
+    "term": "항구",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/harbor.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 233,
+    "term": "주차장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/parking lot.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 234,
+    "term": "도로",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/road.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 235,
+    "term": "다리",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bridge.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 236,
+    "term": "터널",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/tunnel.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 237,
+    "term": "교회",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/church.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 238,
+    "term": "절",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/temple.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 239,
+    "term": "성당",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/cathedral.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 240,
+    "term": "사무실",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/office.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 241,
+    "term": "회의실",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/meeting room.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 242,
+    "term": "공장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/factory.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 243,
+    "term": "농장",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/farm.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 244,
+    "term": "해변",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/beach.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 245,
+    "term": "산",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/mountain.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 246,
+    "term": "숲",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/forest.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 247,
+    "term": "강",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/river.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 248,
+    "term": "호수",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/lake.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "장소",
+    "id": 249,
+    "term": "바다",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/sea.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 250,
+    "term": "자동차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/car.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 251,
+    "term": "버스",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bus.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 252,
+    "term": "택시",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/taxi.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 253,
+    "term": "오토바이",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/motorcycle.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 254,
+    "term": "자전거",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/bicycle.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 255,
+    "term": "전기자전거",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/e-bike.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 256,
+    "term": "전동 킥보드",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/electric scooter.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 257,
+    "term": "스쿠터",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/scooter.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 258,
+    "term": "트럭",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/truck.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 259,
+    "term": "트레일러",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/trailer.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 260,
+    "term": "밴",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/van.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 261,
+    "term": "지프",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/jeep.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 262,
+    "term": "스포츠카",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/sports car.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 263,
+    "term": "경찰차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/police car.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 264,
+    "term": "소방차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/fire truck.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 265,
+    "term": "구급차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/ambulance.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 266,
+    "term": "버기카",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/buggy car.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 267,
+    "term": "캠핑카",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/camper van / rv.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 268,
+    "term": "리무진",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/limousine.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 269,
+    "term": "탱크",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/tank.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 270,
+    "term": "기차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/train.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 271,
+    "term": "고속열차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/high-speed train.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 272,
+    "term": "지하철",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/subway.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 273,
+    "term": "전차",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/tram.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 274,
+    "term": "케이블카",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/cable car.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 275,
+    "term": "모노레일",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/monorail.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 276,
+    "term": "배",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/boat.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 277,
+    "term": "여객선",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/ferry.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 278,
+    "term": "크루즈선",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/cruise ship.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 279,
+    "term": "요트",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/yacht.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 280,
+    "term": "카약",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/kayak.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 281,
+    "term": "카누",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/canoe.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 282,
+    "term": "수상택시",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/water taxi.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 283,
+    "term": "잠수함",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/submarine.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 284,
+    "term": "비행기",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/airplane.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 285,
+    "term": "경비행기",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/small plane.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 286,
+    "term": "전투기",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/fighter jet.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 287,
+    "term": "헬리콥터",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/helicopter.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 288,
+    "term": "열기구",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/hot air balloon.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  },
+  {
+    "folder": "탈것",
+    "id": 289,
+    "term": "패러글라이더",
+    "description": "",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/eunjeong12/FlashCard@main/paraglider.webp",
+    "tts.lang": "ko-KR",
+    "tts.rate": 1
+  }
+]
